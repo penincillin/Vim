@@ -16,3 +16,5 @@
 * railscasts
 * distinguished
 * BlackSea
+* ir_black
+* peaksea
