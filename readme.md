@@ -1,5 +1,5 @@
 ### author
->penincillin
+penincillin
 <br>
 <br>
 ### usage
