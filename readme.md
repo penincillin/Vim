@@ -3,10 +3,10 @@
 <br>
 <br>
 ### usage
->This repository keeps my vim settings and youcompleteme settings
+This repository keeps my vim settings and youcompleteme settings
 <br>
 <br>
-#### used color
+### used color
 * molokai
 * desert
 * gruvbox
